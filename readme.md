@@ -1,7 +1,7 @@
 # KESHAV GAMBHIR
 # 2019249
 
-## Assignment-1 Question-2 Documentation
+## Assignment-1 Documentation
 
 ### Internal Command:
 
