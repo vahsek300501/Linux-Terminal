@@ -51,7 +51,7 @@
         pwd -L: Doesn't resolve the symlink to actual working directories
 
         ERROR HANDLED:INVALID INPUTS
-                        ARGUMENTS MORE THAN REQuIRED
+                        ARGUMENTS MORE THAN REQUIRED
     
     exit
         exit: Exits the programm
